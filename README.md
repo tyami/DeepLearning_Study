@@ -58,5 +58,5 @@
 - Variational Autoencoder (VAE)
 
 ## 8 GAN
-- GAN
+- Generative Adversarial Nets (GAN)
 - DCGAN
