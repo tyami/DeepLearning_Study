@@ -35,6 +35,7 @@
   + Bottleneck Architecture
 - DenseNet
 - ShuffleNet
+  + Channel shuffle
   + Depthwise Seperable Convolution
 - Xception
 - MobileNet
@@ -44,6 +45,8 @@
 - Naive RNN
 - Long Short-Term Memory (LSTM)
 - GRU
+- Dynamic RNN
+- Bidirectional RNN
 
 ## 6 Recurrent Convolutional Neural Network (RCNN) series
 
