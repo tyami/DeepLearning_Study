@@ -19,6 +19,8 @@
 - Data Segmentation: Train/Validation/Test
 - Momentum & Nasterov momentum
 - Weight decay (Regularization)
+- Dataset: MNIST (10 classes, 28x28x1 handwriting images)
+- Dataset: ILSVRC (1,000 classes, 224x224x3 object images)
 
 ## 4 Convolutional Neural Network (CNN) series
 - Naive CNN
@@ -51,3 +53,7 @@
 - Convolutional Autoencoder (CAE, CNN + Autoencoder)
 - Denoising Convolutional Autoencoder
 - Variational Autoencoder (VAE)
+
+## 8 GAN
+- GAN
+- DCGAN
