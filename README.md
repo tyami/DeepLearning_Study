@@ -11,10 +11,15 @@
 - Python basics
 - Pytorch basics
 
-## 3 Neural Network
+## 2 Neural Network
 - Perceptron
 - Multi-Layer Perceptron
 - Deep Neural Network
+
+## 3 Basic concepts for NN modeling
+- Data Segmentation: Train/Validation/Test
+- Momentum & Nasterov momentum
+- Weight decay (Regularization)
 
 ## 4 Convolutional Neural Network (CNN) series
 - Naive CNN
@@ -42,7 +47,8 @@
 ## 6 Recurrent Convolutional Neural Network (RCNN) series
 
 ## 7 Autoencoder series
-- Autoencoder
+- Restricted Boltzman Machine (RBM)
+- Deep Beilief Network (DBN)
 - Convolutional Autoencoder (CAE, CNN + Autoencoder)
 - Denoising Convolutional Autoencoder
 - Variational Autoencoder (VAE)
