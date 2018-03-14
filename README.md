@@ -4,14 +4,13 @@
 - [How to use markdown](https://guides.github.com/features/mastering-markdown/)
 - [Fastcampus](https://github.com/tyami/PyTorch-FastCampus)
 
-
-## Hierarchy of Deep learning milestones
+## Hierarchy of deep learning milestones
 
 ## 1 Pytorch basics
 - Python basics
 - Pytorch basics
 
-## 2 Neural Network
+## 2 Neural Network (NN)
 - Perceptron
 - Multi-Layer Perceptron
 - Deep Neural Network
