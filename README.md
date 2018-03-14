@@ -1,22 +1,22 @@
 # DeepLearning_Study
 Taeyang Yang
 
-### Study materials
+## Study materials
 - [How to use markdown](https://guides.github.com/features/mastering-markdown/)
 - [Fastcampus](https://github.com/tyami/PyTorch-FastCampus)
 
-### Hierarchy of Deep learning milestones
+## Hierarchy of Deep learning milestones
 
-### Pytorch basics
+## Pytorch basics
 - Python basics
 - Pytorch basics
 
-### Neural Network
+## Neural Network
 - Perceptron
 - Multi-Layer Perceptron
 - Deep Neural Network
 
-### Convolutional Neural Network (CNN) series
+## Convolutional Neural Network (CNN) series
 - Naive CNN
 - AlexNet
 - ZFNet
@@ -34,8 +34,8 @@ Taeyang Yang
 - MobileNet
 - MobileNetV2
 
-### Recurrent Neural Network (RNN) series
+## Recurrent Neural Network (RNN) series
 
-### Recurrent Convolutional Neural Network (RCNN) series
+## Recurrent Convolutional Neural Network (RCNN) series
 
-### Autoencoder series
+## Autoencoder series
