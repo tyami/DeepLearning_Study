@@ -20,12 +20,21 @@
 
 ## 3 Basic concepts for NN modeling
 - Data Segmentation: Train/Validation/Test
-- Momentum & Nasterov momentum
-- Weight decay (Regularization)
+- Overfitting & Underfitting
+  + Weight decay (Regularization)
+  + Dropout
+  + Data transform
+  + Learning rate decay
+- Convergence
+  + Initialization
+  + Batch Normalization
+- Optimization algorithm (Momentum, Nasterov, SGD, & Adam)
+
+## 4 Datasets
 - Dataset: MNIST (10 classes, 28x28x1 handwriting images)
 - Dataset: ILSVRC (1,000 classes, 224x224x3 object images)
 
-## 4 Convolutional Neural Network (CNN) series
+## 5 Convolutional Neural Network (CNN) series
 - Naive CNN
 - AlexNet
 - ZFNet
@@ -44,22 +53,22 @@
 - MobileNet
 - MobileNetV2
 
-## 5 Recurrent Neural Network (RNN) series
+## 6 Recurrent Neural Network (RNN) series
 - Naive RNN
 - Long Short-Term Memory (LSTM)
 - GRU
 - Dynamic RNN
 - Bidirectional RNN
 
-## 6 Recurrent Convolutional Neural Network (RCNN) series
+## 7 Recurrent Convolutional Neural Network (RCNN) series
 
-## 7 Autoencoder series
+## 8 Autoencoder series
 - Restricted Boltzman Machine (RBM)
 - Deep Beilief Network (DBN)
 - Convolutional Autoencoder (CAE, CNN + Autoencoder)
 - Denoising Convolutional Autoencoder
 - Variational Autoencoder (VAE)
 
-## 8 GAN
+## 9 GAN
 - Generative Adversarial Nets (GAN)
 - DCGAN
