@@ -12,10 +12,13 @@
 ## 1 Pytorch basics
 - Python basics
 - Pytorch basics
+- matplotlib
 
 ## 2 Neural Network (NN)
 - Perceptron
+  + Activation functions (sigmoid, softmax, & ReLU)
 - Multi-Layer Perceptron
+  + Backpropagation
 - Deep Neural Network
 
 ## 3 Basic concepts for NN modeling
@@ -23,7 +26,7 @@
 - Overfitting & Underfitting
   + Weight decay (Regularization)
   + Dropout
-  + Data transform
+  + Input data transform
   + Learning rate decay
 - Convergence
   + Initialization
@@ -36,6 +39,8 @@
 
 ## 5 Convolutional Neural Network (CNN) series
 - Naive CNN
+  + Convolution
+  + Pooling
 - AlexNet
 - ZFNet
 - VGGNet
