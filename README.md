@@ -2,7 +2,9 @@
 
 ## Study materials
 - [How to use markdown](https://guides.github.com/features/mastering-markdown/)
-- [Fastcampus](https://github.com/tyami/PyTorch-FastCampus)
+- [Fastcampus lecture notes by Gunho Choi](https://github.com/tyami/PyTorch-FastCampus)
+- [Deep Learning for beginners by Gunho Choi](https://github.com/GunhoChoi/Deep-Learning-For-Beginners)
+- [Distill](https://distill.pub)
 
 ## Hierarchy of deep learning milestones
 
