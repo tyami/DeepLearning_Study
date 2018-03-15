@@ -5,6 +5,7 @@
 - [Fastcampus lecture notes by Gunho Choi](https://github.com/tyami/PyTorch-FastCampus)
 - [Deep Learning for beginners by Gunho Choi](https://github.com/GunhoChoi/Deep-Learning-For-Beginners)
 - [Distill](https://distill.pub)
+- [라온피플 블로그 (Korean)](https://laonple.blog.me/220463627091)
 
 ## Hierarchy of deep learning milestones
 
