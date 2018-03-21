@@ -7,7 +7,8 @@ Deep learning study course for beginners (including me)
 - [Deep Learning for beginners by Gunho Choi](https://github.com/GunhoChoi/Deep-Learning-For-Beginners)
 - [Distill (visualizing)](https://distill.pub)
 - [라온피플 블로그 (Korean)](https://laonple.blog.me/220463627091)
-- [Jump to Python](https://wikidocs.net/book/1)
+- [Tutorial: Jump to Python](https://wikidocs.net/book/1)
+- [Tutorial: Matplotlib](https://matplotlib.org/api/pyplot_summary.html)
 
 ## Hierarchy of deep learning milestones
 
