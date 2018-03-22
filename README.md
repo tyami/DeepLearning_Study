@@ -3,7 +3,7 @@ Deep learning study course for beginners (including me)
 
 ## Study materials
 - [How to: How to use markdown (for using github)](https://guides.github.com/features/mastering-markdown/)
-- [How to: Jump to Python](https://wikidocs.net/book/1)
+- [How to: Jump to Python (Korean)](https://wikidocs.net/book/1)
 - [How to: Matplotlib](https://matplotlib.org/api/pyplot_summary.html)
 - [Fastcampus lecture notes by Gunho Choi](https://github.com/tyami/PyTorch-FastCampus)
 - [Deep Learning for beginners by Gunho Choi](https://github.com/GunhoChoi/Deep-Learning-For-Beginners)
