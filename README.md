@@ -5,6 +5,7 @@ Deep learning study course for beginners (including me)
 - [How to: How to use markdown (for using github)](https://guides.github.com/features/mastering-markdown/)
 - [How to: Jump to Python (Korean)](https://wikidocs.net/book/1)
 - [How to: Jupyter Notebook](http://jupyter-notebook.readthedocs.io/en/latest/)
+- [How to: Jupyter Notebook Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 - [How to: Matplotlib](https://matplotlib.org/api/pyplot_summary.html)
 - [Tips: Python tips]
 - [Fastcampus lecture notes by Gunho Choi](https://github.com/tyami/PyTorch-FastCampus)
