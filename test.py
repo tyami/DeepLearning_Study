@@ -7,3 +7,5 @@ print(test_array.dtype)
 print(type(test_array))
 
 print(test_array)
+
+print('hello new')
