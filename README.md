@@ -81,5 +81,6 @@ Deep learning study course for beginners (including me)
 - Variational Autoencoder (VAE)
 
 ## 9 GAN
-- Generative Adversarial Nets (GAN)
+- [GAN, DCGAN 개념](https://tyami.github.io/deep%20learning/GAN-1-theory-GAN-DCGAN/)
+- [Generative Adversarial Nets (GAN) 구현](https://tyami.github.io/deep%20learning/GAN-1-theory-GAN-DCGAN/)
 - DCGAN
