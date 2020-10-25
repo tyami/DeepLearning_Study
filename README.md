@@ -1,5 +1,4 @@
-# DeepLearning_Study
-Deep learning study course for beginners (including me)
+# Implementation of Deep learning model
 
 ## Study materials
 - [How to: How to use markdown (for using github)](https://guides.github.com/features/mastering-markdown/)
